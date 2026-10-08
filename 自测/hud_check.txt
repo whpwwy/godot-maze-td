@@ -1,0 +1,12 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+_run.cmd : SCRIPT ERROR: Parse Error: Function "_build_menu" has the same name as a previously declared variable.
+At line:15 char:2730
++ ... pgrep\bin'; & ".\tools\_run.cmd" --headless --check-only --script res ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (SCRIPT ERROR: P...lared variable.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   at: GDScript::reload (res://src/Hud.gd:157)
+ERROR: Failed to load script "res://src/Hud.gd" with error "Parse error".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)

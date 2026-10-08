@@ -1,0 +1,9 @@
+# Godot 4 引擎导入缓存（体积大，引擎可自行重新生成）
+.godot/
+
+# 启动脚本重定向出来的 user:// 与 GPU 着色器缓存
+.godot_userdata/
+
+# 编辑器 / 系统杂项
+Thumbs.db
+desktop.ini

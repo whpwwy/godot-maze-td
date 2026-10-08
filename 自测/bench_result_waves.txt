@@ -1,0 +1,104 @@
+mode=waves wall_time=188.7s duration=900.0s
+peak_load_time=173.6s
+peak: 同屏 249 个敌人 + 26 发子弹, 当时 86.0 FPS
+best_at_60fps: 同屏 250 个敌人 + 29 发子弹, 窗口帧率 86.1 FPS
+avg_fps=127.5  min_fps_after_5s=85.0
+towers=116 enemies_alive_at_end=0 max_nodes=61
+restarts=0 mem_first=72.0MB mem_last=74.4MB
+cpu_count=24 renderer=gl_compatibility window=(1240.0, 760.0)
+--- samples ---
+t=   0.2 wave= 1 enemies=    0 bullets=    0 towers=   1 gold=   225 lives= 20 fps=   1.0 fired=     0 kills=    0 mem=72.0MB
+t=   2.2 wave= 1 enemies=   11 bullets=    0 towers=   4 gold=     7 lives= 20 fps= 144.0 fired=     8 kills=    1 mem=73.6MB
+t=   4.2 wave= 1 enemies=   23 bullets=    0 towers=   4 gold=     7 lives= 20 fps= 144.0 fired=    18 kills=    1 mem=73.6MB
+t=   6.2 wave= 1 enemies=   15 bullets=    0 towers=   5 gold=    13 lives= 20 fps= 144.0 fired=    39 kills=    9 mem=73.6MB
+t=   8.2 wave= 1 enemies=    8 bullets=    0 towers=   6 gold=    12 lives= 20 fps= 144.0 fired=    58 kills=   16 mem=73.6MB
+t=  10.2 wave= 2 enemies=    2 bullets=    0 towers=   7 gold=    18 lives= 20 fps= 144.0 fired=    70 kills=   24 mem=73.6MB
+t=  12.2 wave= 2 enemies=   15 bullets=    0 towers=   7 gold=    25 lives= 20 fps= 144.0 fired=    81 kills=   25 mem=73.6MB
+t=  14.2 wave= 2 enemies=   27 bullets=    1 towers=   7 gold=    39 lives= 20 fps= 144.0 fired=   103 kills=   27 mem=73.6MB
+t=  16.2 wave= 2 enemies=   22 bullets=    0 towers=   8 gold=    52 lives= 20 fps= 144.0 fired=   144 kills=   36 mem=73.6MB
+t=  18.2 wave= 2 enemies=   13 bullets=    0 towers=  10 gold=    15 lives= 20 fps= 144.0 fired=   178 kills=   45 mem=73.6MB
+t=  20.2 wave= 2 enemies=    2 bullets=    0 towers=  11 gold=    42 lives= 20 fps= 144.0 fired=   208 kills=   56 mem=73.6MB
+t=  22.2 wave= 3 enemies=   23 bullets=    0 towers=  12 gold=    25 lives= 20 fps= 144.0 fired=   241 kills=   61 mem=73.6MB
+t=  24.2 wave= 3 enemies=   44 bullets=    2 towers=  13 gold=    29 lives= 20 fps= 144.0 fired=   310 kills=   70 mem=73.6MB
+t=  26.2 wave= 3 enemies=   49 bullets=    1 towers=  14 gold=    54 lives= 20 fps= 142.0 fired=   394 kills=   82 mem=73.6MB
+t=  28.2 wave= 3 enemies=   36 bullets=    3 towers=  16 gold=    44 lives= 20 fps= 144.0 fired=   489 kills=   96 mem=73.7MB
+t=  30.2 wave= 3 enemies=   16 bullets=    4 towers=  19 gold=    32 lives= 20 fps= 144.0 fired=   562 kills=  116 mem=73.7MB
+t=  32.2 wave= 4 enemies=    6 bullets=    3 towers=  21 gold=    44 lives= 20 fps= 144.0 fired=   605 kills=  132 mem=73.7MB
+t=  34.3 wave= 4 enemies=   36 bullets=    2 towers=  22 gold=    19 lives= 20 fps= 144.0 fired=   654 kills=  136 mem=73.7MB
+t=  36.3 wave= 4 enemies=   57 bullets=    1 towers=  23 gold=    47 lives= 20 fps= 144.0 fired=   753 kills=  149 mem=73.7MB
+t=  38.3 wave= 4 enemies=   62 bullets=    8 towers=  25 gold=    29 lives= 20 fps= 144.0 fired=   880 kills=  162 mem=73.7MB
+t=  40.3 wave= 4 enemies=   37 bullets=    7 towers=  28 gold=    41 lives= 20 fps= 144.0 fired=  1024 kills=  187 mem=73.7MB
+t=  42.3 wave= 4 enemies=   13 bullets=    4 towers=  32 gold=     9 lives= 20 fps= 144.0 fired=  1130 kills=  211 mem=73.7MB
+t=  44.3 wave= 5 enemies=   12 bullets=    0 towers=  35 gold=    25 lives= 20 fps= 144.0 fired=  1179 kills=  225 mem=73.7MB
+t=  46.3 wave= 5 enemies=   53 bullets=    2 towers=  36 gold=    17 lives= 20 fps= 144.0 fired=  1252 kills=  232 mem=73.7MB
+t=  48.3 wave= 5 enemies=   92 bullets=    4 towers=  37 gold=    27 lives= 20 fps= 144.0 fired=  1390 kills=  242 mem=73.7MB
+t=  50.3 wave= 5 enemies=  107 bullets=    4 towers=  39 gold=    26 lives= 20 fps= 144.0 fired=  1586 kills=  258 mem=73.8MB
+t=  52.3 wave= 5 enemies=   87 bullets=    5 towers=  42 gold=    17 lives= 20 fps= 143.0 fired=  1827 kills=  280 mem=73.8MB
+t=  54.3 wave= 5 enemies=   68 bullets=    5 towers=  44 gold=    49 lives= 20 fps= 143.0 fired=  2085 kills=  299 mem=73.8MB
+t=  56.3 wave= 5 enemies=   51 bullets=    4 towers=  47 gold=    18 lives= 20 fps= 143.0 fired=  2331 kills=  316 mem=73.8MB
+t=  58.3 wave= 5 enemies=   37 bullets=    3 towers=  49 gold=    39 lives= 20 fps= 140.0 fired=  2580 kills=  330 mem=73.8MB
+t=  60.3 wave= 5 enemies=   27 bullets=    3 towers=  52 gold=    43 lives= 20 fps= 140.0 fired=  2851 kills=  340 mem=73.8MB
+t=  62.3 wave= 5 enemies=   13 bullets=    1 towers=  57 gold=    22 lives= 20 fps= 142.0 fired=  3082 kills=  354 mem=73.9MB
+t=  64.3 wave= 5 enemies=    4 bullets=    1 towers=  60 gold=    43 lives= 20 fps= 140.0 fired=  3215 kills=  363 mem=73.9MB
+t=  66.3 wave= 6 enemies=   26 bullets=    2 towers=  62 gold=    32 lives= 20 fps= 142.0 fired=  3271 kills=  369 mem=73.8MB
+t=  68.3 wave= 6 enemies=   65 bullets=    6 towers=  64 gold=    17 lives= 20 fps= 142.0 fired=  3444 kills=  383 mem=73.9MB
+t=  70.3 wave= 6 enemies=  101 bullets=   12 towers=  66 gold=    31 lives= 20 fps= 142.0 fired=  3748 kills=  401 mem=73.9MB
+t=  72.3 wave= 6 enemies=  109 bullets=    9 towers=  69 gold=    34 lives= 20 fps= 140.0 fired=  4154 kills=  425 mem=73.9MB
+t=  74.3 wave= 6 enemies=   80 bullets=    9 towers=  73 gold=    24 lives= 20 fps= 141.0 fired=  4600 kills=  454 mem=73.9MB
+t=  76.3 wave= 6 enemies=   61 bullets=    2 towers=  76 gold=    19 lives= 20 fps= 137.0 fired=  4971 kills=  473 mem=73.9MB
+t=  78.3 wave= 6 enemies=   40 bullets=    6 towers=  80 gold=    38 lives= 20 fps= 140.0 fired=  5293 kills=  494 mem=73.9MB
+t=  80.4 wave= 6 enemies=   26 bullets=    2 towers=  84 gold=     8 lives= 20 fps= 144.0 fired=  5541 kills=  508 mem=74.0MB
+t=  82.4 wave= 6 enemies=   16 bullets=    1 towers=  87 gold=    48 lives= 20 fps= 144.0 fired=  5800 kills=  518 mem=74.0MB
+t=  84.4 wave= 7 enemies=    0 bullets=    6 towers=  94 gold=     2 lives= 20 fps= 144.0 fired=  5976 kills=  534 mem=74.0MB
+t=  86.4 wave= 7 enemies=   50 bullets=   12 towers=  95 gold=    32 lives= 20 fps= 144.0 fired=  6131 kills=  547 mem=74.0MB
+t=  88.4 wave= 7 enemies=   90 bullets=   20 towers=  98 gold=    22 lives= 20 fps= 144.0 fired=  6452 kills=  569 mem=74.0MB
+t=  90.4 wave= 7 enemies=  115 bullets=   16 towers= 101 gold=    31 lives= 20 fps= 142.0 fired=  6882 kills=  594 mem=74.0MB
+t=  92.4 wave= 7 enemies=   98 bullets=   22 towers= 105 gold=    44 lives= 20 fps= 138.0 fired=  7429 kills=  627 mem=74.1MB
+t=  94.4 wave= 7 enemies=   78 bullets=   22 towers= 108 gold=    31 lives= 20 fps= 135.0 fired=  7969 kills=  647 mem=74.1MB
+t=  96.4 wave= 7 enemies=   50 bullets=   13 towers= 113 gold=    13 lives= 20 fps= 133.0 fired=  8467 kills=  675 mem=74.1MB
+t=  98.4 wave= 7 enemies=   31 bullets=   12 towers= 116 gold=   128 lives= 20 fps= 130.0 fired=  8885 kills=  694 mem=74.1MB
+t= 100.4 wave= 7 enemies=   18 bullets=   10 towers= 116 gold=   150 lives= 20 fps= 128.0 fired=  9216 kills=  707 mem=74.1MB
+t= 102.4 wave= 7 enemies=    1 bullets=    6 towers= 116 gold=   158 lives= 20 fps= 126.0 fired=  9410 kills=  724 mem=74.1MB
+t= 104.4 wave= 8 enemies=   54 bullets=   10 towers= 116 gold=   154 lives= 20 fps= 126.0 fired=  9570 kills=  736 mem=74.1MB
+t= 106.4 wave= 8 enemies=  105 bullets=   18 towers= 116 gold=   164 lives= 20 fps= 122.0 fired=  9935 kills=  759 mem=74.1MB
+t= 108.4 wave= 8 enemies=  134 bullets=   17 towers= 116 gold=   128 lives= 20 fps= 119.0 fired= 10450 kills=  789 mem=74.1MB
+t= 110.4 wave= 8 enemies=  118 bullets=   15 towers= 116 gold=   123 lives= 20 fps= 117.0 fired= 11083 kills=  823 mem=74.1MB
+t= 112.4 wave= 8 enemies=   89 bullets=    7 towers= 116 gold=   141 lives= 20 fps= 118.0 fired= 11671 kills=  852 mem=74.1MB
+t= 114.4 wave= 8 enemies=   63 bullets=    7 towers= 116 gold=   158 lives= 20 fps= 119.0 fired= 12189 kills=  878 mem=74.1MB
+t= 116.4 wave= 8 enemies=   37 bullets=    9 towers= 116 gold=   169 lives= 20 fps= 120.0 fired= 12614 kills=  904 mem=74.1MB
+t= 118.4 wave= 8 enemies=   17 bullets=    7 towers= 116 gold=   165 lives= 20 fps= 120.0 fired= 12987 kills=  924 mem=74.1MB
+t= 120.4 wave= 8 enemies=    2 bullets=    2 towers= 116 gold=   135 lives= 20 fps= 120.0 fired= 13245 kills=  939 mem=74.1MB
+t= 122.4 wave= 9 enemies=   23 bullets=    4 towers= 116 gold=   148 lives= 20 fps= 122.0 fired= 13365 kills=  943 mem=74.1MB
+t= 124.4 wave= 9 enemies=   87 bullets=   16 towers= 116 gold=   153 lives= 20 fps= 117.0 fired= 13621 kills=  966 mem=74.1MB
+t= 126.4 wave= 9 enemies=  135 bullets=   19 towers= 116 gold=   135 lives= 20 fps= 111.0 fired= 14062 kills= 1005 mem=74.1MB
+t= 128.4 wave= 9 enemies=  133 bullets=   13 towers= 116 gold=   133 lives= 20 fps= 110.0 fired= 14627 kills= 1047 mem=74.2MB
+t= 130.4 wave= 9 enemies=  101 bullets=   16 towers= 116 gold=   122 lives= 20 fps= 109.0 fired= 15216 kills= 1079 mem=74.2MB
+t= 132.4 wave= 9 enemies=   75 bullets=    9 towers= 116 gold=   139 lives= 20 fps= 112.0 fired= 15768 kills= 1105 mem=74.3MB
+t= 134.4 wave= 9 enemies=   50 bullets=    6 towers= 116 gold=   119 lives= 20 fps= 112.0 fired= 16251 kills= 1130 mem=74.2MB
+t= 136.4 wave= 9 enemies=   14 bullets=    8 towers= 116 gold=   302 lives= 20 fps= 112.0 fired= 16657 kills= 1166 mem=74.2MB
+t= 138.4 wave=10 enemies=   18 bullets=    4 towers= 116 gold=   132 lives= 20 fps= 113.0 fired= 16863 kills= 1182 mem=74.2MB
+t= 140.4 wave=10 enemies=  109 bullets=   19 towers= 116 gold=   149 lives= 20 fps= 110.0 fired= 17149 kills= 1207 mem=74.3MB
+t= 142.5 wave=10 enemies=  171 bullets=   23 towers= 116 gold=    89 lives= 20 fps= 104.0 fired= 17638 kills= 1245 mem=74.3MB
+t= 144.5 wave=10 enemies=  140 bullets=   28 towers= 116 gold=    95 lives= 20 fps= 102.0 fired= 18292 kills= 1304 mem=74.3MB
+t= 146.5 wave=10 enemies=  103 bullets=   11 towers= 116 gold=   124 lives= 20 fps= 105.0 fired= 18915 kills= 1341 mem=74.3MB
+t= 148.5 wave=10 enemies=   75 bullets=   25 towers= 116 gold=   155 lives= 20 fps= 105.0 fired= 19486 kills= 1369 mem=74.3MB
+t= 150.5 wave=10 enemies=   49 bullets=    3 towers= 116 gold=   118 lives= 20 fps= 106.0 fired= 19960 kills= 1395 mem=74.4MB
+t= 152.5 wave=10 enemies=   20 bullets=   14 towers= 116 gold=   183 lives= 20 fps= 108.0 fired= 20392 kills= 1424 mem=74.3MB
+t= 154.5 wave=10 enemies=    1 bullets=    2 towers= 116 gold=    94 lives= 20 fps= 110.0 fired= 20646 kills= 1443 mem=74.3MB
+t= 156.5 wave=11 enemies=   83 bullets=    8 towers= 116 gold=   129 lives= 20 fps= 109.0 fired= 20840 kills= 1460 mem=74.3MB
+t= 158.5 wave=11 enemies=  188 bullets=   24 towers= 116 gold=   155 lives= 20 fps= 103.0 fired= 21274 kills= 1501 mem=74.3MB
+t= 160.5 wave=11 enemies=  167 bullets=   25 towers= 116 gold=   111 lives= 20 fps=  99.0 fired= 21918 kills= 1564 mem=74.3MB
+t= 162.5 wave=11 enemies=  102 bullets=   15 towers= 116 gold=   117 lives= 20 fps= 100.0 fired= 22546 kills= 1629 mem=74.3MB
+t= 164.5 wave=11 enemies=   70 bullets=    9 towers= 116 gold=   113 lives= 20 fps=  93.0 fired= 23079 kills= 1661 mem=74.3MB
+t= 166.5 wave=11 enemies=   44 bullets=    7 towers= 116 gold=   136 lives= 20 fps=  94.0 fired= 23556 kills= 1687 mem=74.4MB
+t= 168.5 wave=11 enemies=   27 bullets=   10 towers= 116 gold=   159 lives= 20 fps=  93.0 fired= 23955 kills= 1704 mem=74.3MB
+t= 170.5 wave=12 enemies=    5 bullets=   16 towers= 116 gold=   147 lives= 20 fps=  94.0 fired= 24248 kills= 1731 mem=74.3MB
+t= 172.5 wave=12 enemies=  207 bullets=   21 towers= 116 gold=   137 lives= 20 fps=  91.0 fired= 24559 kills= 1766 mem=74.3MB
+t= 174.5 wave=12 enemies=  210 bullets=   28 towers= 116 gold=   115 lives= 20 fps=  86.0 fired= 25169 kills= 1835 mem=74.5MB
+t= 176.5 wave=12 enemies=  138 bullets=   20 towers= 116 gold=   152 lives= 20 fps=  85.0 fired= 25858 kills= 1907 mem=74.4MB
+t= 178.6 wave=12 enemies=   76 bullets=   25 towers= 116 gold=   184 lives= 20 fps=  87.0 fired= 26434 kills= 1969 mem=74.4MB
+t= 180.6 wave=12 enemies=   67 bullets=   14 towers= 116 gold=   106 lives= 20 fps=  90.0 fired= 26914 kills= 1978 mem=74.4MB
+t= 182.6 wave=12 enemies=   52 bullets=   14 towers= 116 gold=   166 lives= 20 fps=  90.0 fired= 27367 kills= 1993 mem=74.4MB
+t= 184.6 wave=12 enemies=   34 bullets=    4 towers= 116 gold=   199 lives= 20 fps=  90.0 fired= 27817 kills= 2011 mem=74.4MB
+t= 186.6 wave=12 enemies=    8 bullets=    6 towers= 116 gold=   168 lives= 20 fps=  91.0 fired= 28182 kills= 2037 mem=74.4MB
+t= 188.6 wave=12 enemies=    2 bullets=    4 towers= 116 gold=   132 lives= 20 fps=  91.0 fired= 28404 kills= 2043 mem=74.4MB

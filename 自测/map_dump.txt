@@ -1,0 +1,41 @@
+﻿_run.cmd : '_godot.cmd' is not recognized as an internal or external command,
+At line:15 char:2756
++ ... odot\3DDF"; & ".\tools\_run.cmd" --headless --script res://tools/dump ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('_godot.cmd' is...ternal command,:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
+'Called' is not recognized as an internal or external command,
+operable program or batch file.
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+=== MAP (seed=20261008) ===
+###############################
+#..............#..............#
+#..............#..............#
+#############..#..####..####..#
+#...........#.....#...........#
+#...........#.....#...........#
+#..####..##########..#######..#
+S.....#........#.....#........G
+S.....#........#.....#........G
+#..#..####..#..#..#..#..#######
+#..#........#..#..#.....#.....#
+#..#........#..#..#.....#.....#
+#..##########..#..##########..#
+#...........#.....#.....#.....#
+#...........#.....#.....#.....#
+#..#######..#######..#..#..#..#
+#....................#........#
+#....................#........#
+###############################
+cells=589 walls=217 floor=372 wall_ratio=0.368
+BFS spawn->goal : true
+field.spawn_reachable : true
+dist(spawn 0,7) : 4487  (格数约 44.9)
+dist(spawn 0,8) : 4446
+trace cells : 43
+reachable cells : 372 / 589
+after blocking (1,7) -> has_path : true
+after blocking (1,7)+(1,8) -> has_path : false

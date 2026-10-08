@@ -1,0 +1,24 @@
+mode=ceiling wall_time=30.0s duration=30.0s
+peak_load_time=23.9s
+peak: 同屏 8192 个敌人 + 36 发子弹, 当时 19.0 FPS
+best_at_60fps: 同屏 4364 个敌人 + 17 发子弹, 窗口帧率 66.3 FPS
+avg_fps=20.1  min_fps_after_5s=18.0
+towers=313 enemies_alive_at_end=6786 max_nodes=61
+restarts=0 mem_first=71.8MB mem_last=74.8MB
+cpu_count=24 renderer=gl_compatibility window=(1240.0, 760.0)
+--- samples ---
+t=   0.1 wave= 0 enemies=  120 bullets=    0 towers=   4 gold=  4035 lives= 20 fps=   1.0 fired=     0 kills=    0 mem=71.8MB
+t=   2.2 wave= 0 enemies= 8181 bullets=   25 towers= 241 gold=262209 lives= 20 fps=  42.0 fired=   645 kills=   37 mem=74.2MB
+t=   4.2 wave= 0 enemies= 8039 bullets=   25 towers= 313 gold=412482 lives= 20 fps=  19.0 fired=  1287 kills=  632 mem=74.6MB
+t=   6.2 wave= 1 enemies= 7749 bullets=   29 towers= 313 gold=572794 lives= 20 fps=  19.0 fired=  1980 kills= 1304 mem=74.5MB
+t=   8.3 wave= 1 enemies= 7469 bullets=   22 towers= 313 gold=737093 lives= 20 fps=  19.0 fired=  2670 kills= 1953 mem=74.6MB
+t=  10.3 wave= 1 enemies= 8121 bullets=   22 towers= 313 gold=897679 lives= 20 fps=  19.0 fired=  3334 kills= 2514 mem=74.6MB
+t=  12.3 wave= 1 enemies= 7611 bullets=   23 towers= 313 gold=1053753 lives= 20 fps=  19.0 fired=  3984 kills= 3019 mem=74.6MB
+t=  14.3 wave= 1 enemies= 7784 bullets=   25 towers= 313 gold=1209317 lives= 20 fps=  19.0 fired=  4629 kills= 3433 mem=74.6MB
+t=  16.4 wave= 1 enemies= 8151 bullets=   26 towers= 313 gold=1364549 lives= 20 fps=  19.0 fired=  5279 kills= 3831 mem=74.6MB
+t=  18.4 wave= 1 enemies= 8090 bullets=   24 towers= 313 gold=1520305 lives= 20 fps=  18.0 fired=  5928 kills= 4241 mem=74.6MB
+t=  20.4 wave= 1 enemies= 7873 bullets=   29 towers= 313 gold=1676900 lives= 20 fps=  19.0 fired=  6555 kills= 4696 mem=74.6MB
+t=  22.4 wave= 1 enemies= 7889 bullets=   27 towers= 313 gold=1832604 lives= 20 fps=  18.0 fired=  7185 kills= 5103 mem=74.6MB
+t=  24.5 wave= 1 enemies= 8013 bullets=   27 towers= 313 gold=1990660 lives= 20 fps=  19.0 fired=  7795 kills= 5765 mem=74.7MB
+t=  26.5 wave= 1 enemies= 7584 bullets=   31 towers= 313 gold=2143132 lives= 20 fps=  18.0 fired=  8394 kills= 6229 mem=74.7MB
+t=  28.5 wave= 1 enemies= 6729 bullets=   28 towers= 313 gold=2309181 lives= 20 fps=  19.0 fired=  9032 kills= 6886 mem=74.8MB

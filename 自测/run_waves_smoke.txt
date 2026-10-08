@@ -1,0 +1,11 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[BENCH] mode=waves peak=216 enemies + 18 bullets @ 145.0 FPS ; best@60fps=216+18 ; avg=144.1 ; balanced=true
+_run.cmd : WARNING: 22 ObjectDB instances were leaked at exit (run with `--verbose` for details).
+At line:15 char:2766
++ ... odot\3DDF"; & ".\tools\_run.cmd" --headless --bench --bench-time=3600 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: 22 Obj...` for details).:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   at: cleanup (core/object/object.cpp:2536)
